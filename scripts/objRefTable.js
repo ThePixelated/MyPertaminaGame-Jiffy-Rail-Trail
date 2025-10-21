@@ -134,6 +134,7 @@ self.C3_JsPropNameTable = [
 	{LogoApp: 0},
 	{LeaderboardBtn: 0},
 	{FadeBG: 0},
+	{BillboardNew: 0},
 	{fBts: 0},
 	{sounds: 0},
 	{soundName: 0},
@@ -199,5 +200,6 @@ self.InstanceType = {
 	LogoApp: class extends self.ISpriteInstance {},
 	LeaderboardBtn: class extends self.ISpriteInstance {},
 	FadeBG: class extends self.ISpriteInstance {},
+	BillboardNew: class extends self.ISpriteInstance {},
 	fBts: class extends self.ISpriteInstance {}
 }
