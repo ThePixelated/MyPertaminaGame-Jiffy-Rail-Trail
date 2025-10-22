@@ -1,7 +1,7 @@
 {
-	"name": "Snake",
-	"short_name": "Snake",
-	"description": "But Construct 3 snake game online",
+	"name": "Jiffy Trail Train",
+	"short_name": "Jiffy Trail Train",
+	"description": "Jiffy Trail Train for MyPertamina",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "landscape",
